@@ -13,14 +13,6 @@ export default function Header({ title }) {
         aim was to give you the code you would need to hit the ground running
         with a few fun features.
       </p>
-
-      <p>
-        You can find the code for this project on GitHub at{" "}
-        <a href="https://github.com/netlify-templates/nextjs-toolbox">
-          https://github.com/netlify-templates/nextjs-toolbox
-        </a>
-        ! Happy coding!
-      </p>
     </>
   );
 }
